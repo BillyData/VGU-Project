@@ -31,7 +31,7 @@ To contribute to VGU-Project, follow these steps:
 2. **Clone Your Fork:**
    - Clone the repository to your local machine:
      ```bash
-     git clone https://github.com/BillyData/VGU-Project.git
+     git clone https://github.com/[your user name]/[the name of the repository that you use to fork].git
      ```
 
 
