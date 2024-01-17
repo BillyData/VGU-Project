@@ -1,4 +1,4 @@
-# Contributing to [Project Name]
+# Contributing to VGU-Project
 
 Thank you for considering contributing to VGU-Project! We appreciate your help in making our project better.
 
